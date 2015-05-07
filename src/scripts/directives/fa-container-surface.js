@@ -7,7 +7,7 @@
  * This directive will create a Famo.us ContainerSurface containing the
  * specified child elements. The provided `options` object
  * will pass directly through to the Famo.us ContainerSurface's
- * constructor.  See [https://famo.us/docs/surfaces/ContainerSurface]
+ * constructor.  See [LINK 404]
  *
  * @usage
  * ```html
